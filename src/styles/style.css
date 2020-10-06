@@ -116,7 +116,9 @@ h1 {
 }
 
 .button:hover {
-  background: #03AADB
+  background: #03AADB;
+  background-color: #9fa4a6;
+  border: 2px solid #050505
 }
 
 /**
@@ -566,7 +568,8 @@ footer a:hover {
 }
 
 .nav__link:hover {
-  background: #485069;
+  background: #49598c;
+  color: #aab8e6
   border-radius: 5px;
 }
 
